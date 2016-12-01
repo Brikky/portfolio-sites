@@ -54,7 +54,7 @@ Browse around for domains that match either your name, or a common social media 
 
 **Check Out** <br>
 [GoDaddy](https://www.godaddy.com/?isc=gofd2001aj&countryview=1)<br>
-[Google Domains](https://domains.google/)
+[Google Domains](https://domains.google/)<br>
 [Name Cheap](https://www.namecheap.com/)
 
 ###Last Thing!<br>(If Using Custom Domain)
