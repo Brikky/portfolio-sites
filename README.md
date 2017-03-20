@@ -3,7 +3,7 @@ Creator: Brandon Kerr
 For GA WDI 32 
 -->
 
-#Building a Portfolio Website
+# Building a Portfolio Website
 ------
 According to a recent Forbes article, 56 percent of all hiring managers are more impressed by a candidate’s online portfolio than any other personal branding tool. However, only 7 percent of job seekers have created an online portfolio.
 
@@ -13,7 +13,7 @@ According to a recent Forbes article, 56 percent of all hiring managers are more
 * Front end code (don't bother with Angular that's silly. One page is where it's at.)
 * Domain name (optional)
 
-###Hosting
+### Hosting
 **Recommended:** Github Pages
 
 Github has built in tools that allow you to host your website directly from a repository. This is super useful because any time you push to your repository, the website is automagically updated without any more input from you. The default github link is also pretty solid - username.github.io - though a personal domain is still recommended.
@@ -32,7 +32,7 @@ Github has built in tools that allow you to host your website directly from a re
 3. Navigate to your repository on Github, click on `settings` from nav bar at the top of the repository
 4. Scroll down to `GitHub Pages` and select which branch holds your website's code. If you have a custom domain, enter it in the textbox and GitHub will add the file required to use a custom domain name automagically.
 
-###Front End Code
+### Front End Code
 **Recommended:** Start with a template, modify it for your needs
 
 Designing a portfolio website could easily take the better part of a week if you started from scratch. I recommend starting with a template and cutting out whatever pieces you don't need, then rebranding it to make it your own (at least change the colors!)
@@ -43,7 +43,7 @@ Browse around for a template that has all the features you want in your portfoli
 [Wix](http://www.wix.com/website/templates)<br>
 [Start BootStrap](https://startbootstrap.com/)
 
-###Domain Name
+### Domain Name
 **Recommended:** GoDaddy - Great customer service and cheap prices
 
 Buying a custom domain adds an extra touch to your portfolio website, and is probably expected since we're working with the web so you might as well throw down the money for it. (It's cheaper than Philz)
@@ -57,7 +57,7 @@ Browse around for domains that match either your name, or a common social media 
 [Google Domains](https://domains.google/)<br>
 [Name Cheap](https://www.namecheap.com/)
 
-###Last Thing!<br>(If Using Custom Domain)
+### Last Thing!<br>(If Using Custom Domain)
 
 You need to tell the company you used to purchase your domain name from where your site's content is located! There are guides for how to connect GitHub Pages to these domain name suppliers, but the general idea is:
 
