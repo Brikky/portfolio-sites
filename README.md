@@ -8,7 +8,7 @@ For GA WDI 32
 According to a recent Forbes article, 56 percent of all hiring managers are more impressed by a candidate’s online portfolio than any other personal branding tool. However, only 7 percent of job seekers have created an online portfolio.
 
 ## So Let's Do That
-###What You Need:
+### What You Need:
 * Website hosting service
 * Front end code (don't bother with Angular that's silly. One page is where it's at.)
 * Domain name (optional)
@@ -25,10 +25,10 @@ Github has built in tools that allow you to host your website directly from a re
 1. Create a new repository, titled `username.github.io` (But replace with your username!)
 2. Add your repository as a remote for your front end code: 
 <br>
-	`git remote add origin https://github.com/username/username.github.io`
+	` git remote add origin https://github.com/username/username.github.io `
 <br>
 	Or clone the repo onto your local machine if you don't already have code: <br>
-	`git clone https://github.com/username/username.github.io`
+	` git clone https://github.com/username/username.github.io`
 3. Navigate to your repository on Github, click on `settings` from nav bar at the top of the repository
 4. Scroll down to `GitHub Pages` and select which branch holds your website's code. If you have a custom domain, enter it in the textbox and GitHub will add the file required to use a custom domain name automagically.
 
